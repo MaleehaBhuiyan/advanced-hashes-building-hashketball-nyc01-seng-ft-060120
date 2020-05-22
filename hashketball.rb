@@ -70,4 +70,5 @@ def game_hash
       :colors => [],
       :players => []
     }
+  }
 end
