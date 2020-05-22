@@ -1,2 +1,4 @@
 # Write your code here!
-game_hash = {} 
+def game_hash
+  {}
+end
